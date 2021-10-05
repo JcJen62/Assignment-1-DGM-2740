@@ -12,7 +12,7 @@ body {
 
 /* header rules here */
 header{
-    background-color: #96bcfa;
+    background-color: #516b94;
     padding: 1rem 2%;
 }
 
@@ -80,5 +80,5 @@ main figcaption{
 footer {
     text-align: center;
     padding: 1rem 2%;
-    background-color: #96bcfa;
+    background-color: #516b94;
 }
